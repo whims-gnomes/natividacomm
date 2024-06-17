@@ -31,3 +31,4 @@ Zero Downtime Deployment Microservices Lambda Functions Testing Content Delivery
 Cloud Docker Zero Downtime Deployment Lambda Functions Message Queue
 Frontend Sharding A/B Testing Innovation distinguishes between a leader and a follower. If you can dream it, you can do it.
 JavaScript Opportunities don't happen. You create them. Containerization Frontend Version Control Code Review Content Delivery Network UX Optimization Don't be afraid to give up the good to go for the great. Scalability DevOps Great things never come from comfort zones. Message Queue Artificial Intelligence
+Server Response Act as if what you do makes a difference. It does. Virtual Machines Edge Computing Event Sourcing Stay hungry, stay foolish. DevOps Python WebSockets Opportunities don't happen. You create them. Monitoring Machine Learning Serverless Version Control
