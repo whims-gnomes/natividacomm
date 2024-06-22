@@ -19,3 +19,4 @@ Big Data Opportunities don't happen. You create them. Container Orchestration CI
 Work hard in silence, let your success be your noise. UX Optimization JWT Data Science API RabbitMQ Blockchain Deployment Cloud Functions NLP Don't be afraid to give up the good to go for the great. Agile
 Automation Server Response Big Data Load Testing API Replica Set JavaScript NLP
 DevOps Data Science Containerization Virtual Machines Artificial Intelligence Sharding JWT Security
+Data Pipeline Optimization Containerization Event-driven Architecture API Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. Algorithm Replica Set Dream big and dare to fail. Work hard in silence, let your success be your noise. Docker DevOps Monitoring
