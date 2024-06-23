@@ -18,3 +18,4 @@ GraphQL Success is not in what you have, but who you are. Data Science Stay hung
 Success is not in what you have, but who you are. Neural Networks Scalability Lambda Functions Framework
 Work hard in silence, let your success be your noise. Great things never come from comfort zones. Content Delivery Network RabbitMQ Serverless Logging OAuth
 Optimization Success usually comes to those who are too busy to be looking for it. WebSockets Great things never come from comfort zones. A/B Testing Load Balancing Performance Artificial Intelligence Algorithm
+Event-driven Architecture If you can dream it, you can do it. Event Sourcing Agile Neural Networks
