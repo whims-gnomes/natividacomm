@@ -24,3 +24,4 @@ DevOps Kafka DNS Routing Logging NLP A/B Testing RabbitMQ CI/CD GraphQL API Gate
 Kafka Content Delivery Network Happiness is not something ready made. It comes from your own actions. Edge Computing GraphQL
 Python Innovation distinguishes between a leader and a follower. Container Orchestration Success is not in what you have, but who you are. OAuth Pull Request Message Queue Firewalls Data Pipeline RabbitMQ Event Sourcing Multi-threading Great things never come from comfort zones.
 Testing I find that the harder I work, the more luck I seem to have. Machine Learning Database Indexing The only way to do great work is to love what you do. API
+Opportunities don't happen. You create them. CI/CD Message Queue Do what you love and the money will follow. Kubernetes Data Science Don't be afraid to give up the good to go for the great.
