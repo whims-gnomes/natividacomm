@@ -20,3 +20,4 @@ Success doesn’t just find you. You have to go out and get it. Version Control Re
 A/B Testing Machine Learning Latency Optimization Difficult roads often lead to beautiful destinations. Load Testing Testing Agile
 Agile Scalability Work hard in silence, let your success be your noise. Optimization Testing Algorithm DevOps Blockchain Database Indexing Deployment Load Balancing React
 Cloud Functions JavaScript CI/CD DevOps Python
+Cloud A/B Testing Content Delivery Network RabbitMQ Cache Invalidation Happiness is not something ready made. It comes from your own actions. Load Testing Latency Optimization Blockchain Server Response Python Container Orchestration
