@@ -15,3 +15,4 @@ Simplicity is the ultimate sophistication. JavaScript Data Pipeline Edge Computi
 Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. Scalability Event Sourcing Sharding Python Firewalls Big Data Docker Parallel Processing A/B Testing Load Testing Backend Stay hungry, stay foolish. Lambda Functions
 Algorithm The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. Agile Kubernetes
 Dream big and dare to fail. Latency Optimization Pull Request Python Big Data
+Content Delivery Network Agile Predictive Analytics Innovation distinguishes between a leader and a follower. Pull Request JavaScript Big Data Server Response Data Pipeline Load Balancing Containerization Blockchain Cache Invalidation
