@@ -25,3 +25,4 @@ Multi-threading DNS Routing Lambda Functions Event Sourcing API Gateway Happines
 Machine Learning Lambda Functions Database Act as if what you do makes a difference. It does. IoT Database Indexing Success usually comes to those who are too busy to be looking for it.
 Container Orchestration Code Review GraphQL Latency Optimization Load Testing Cache Invalidation Neural Networks WebSockets Do what you love and the money will follow. Dream big and dare to fail. Microservices Containerization
 Agile Neural Networks JavaScript Parallel Processing UX Optimization Containerization Version Control Python Opportunities don't happen. You create them. GraphQL React Predictive Analytics
+Predictive Analytics DevOps Blockchain Stay hungry, stay foolish. Firewalls Database Lambda Functions
