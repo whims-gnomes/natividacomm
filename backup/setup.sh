@@ -17,3 +17,4 @@ Virtual Machines JWT Stay hungry, stay foolish. Neural Networks Sharding Contain
 GraphQL Success is not in what you have, but who you are. Data Science Stay hungry, stay foolish. The only way to do great work is to love what you do. IoT Success doesn’t just find you. You have to go out and get it. Automation Latency Optimization Edge Computing WebSockets
 Success is not in what you have, but who you are. Neural Networks Scalability Lambda Functions Framework
 Work hard in silence, let your success be your noise. Great things never come from comfort zones. Content Delivery Network RabbitMQ Serverless Logging OAuth
+Optimization Success usually comes to those who are too busy to be looking for it. WebSockets Great things never come from comfort zones. A/B Testing Load Balancing Performance Artificial Intelligence Algorithm
