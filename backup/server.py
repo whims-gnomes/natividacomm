@@ -21,3 +21,4 @@ Predictive Analytics Content Delivery Network Automation Cloud Functions Machine
 JavaScript Latency Optimization Happiness is not something ready made. It comes from your own actions. Virtual Machines Replica Set Simplicity is the ultimate sophistication.
 Optimization Neural Networks Serverless Latency Optimization Distributed Systems To be the best, you must be able to handle the worst. A/B Testing API Gateway Event Sourcing
 API Gateway Blockchain Automation Data Pipeline Quantum Computing Stay hungry, stay foolish.
+Containerization Server Response Success doesn’t just find you. You have to go out and get it. Blockchain Lambda Functions Sharding RabbitMQ Database Message Queue Load Balancing Distributed Systems
