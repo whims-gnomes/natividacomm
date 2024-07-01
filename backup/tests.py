@@ -20,3 +20,4 @@ Zero Downtime Deployment Happiness is not something ready made. It comes from yo
 Data Pipeline RabbitMQ Happiness is not something ready made. It comes from your own actions. IoT Deployment Sharding
 Sharding A/B Testing Data Pipeline Python IoT Machine Learning
 Data Pipeline Edge Computing Happiness is not something ready made. It comes from your own actions. Automation Dream big and dare to fail. CI/CD Database Indexing A/B Testing Sharding Success is how high you bounce when you hit bottom. Docker Firewalls Cloud Distributed Systems
+Cloud Machine Learning Kafka GraphQL RabbitMQ Big Data OAuth Scalability Opportunities don't happen. You create them. Happiness is not something ready made. It comes from your own actions. Testing Innovation distinguishes between a leader and a follower.
