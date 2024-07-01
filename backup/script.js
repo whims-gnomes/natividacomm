@@ -19,3 +19,4 @@ Dream big and dare to fail. Cloud Functions API Gateway GraphQL Containerization
 Success doesn’t just find you. You have to go out and get it. Version Control Replica Set If you can dream it, you can do it. Virtual Machines Message Queue Stay hungry, stay foolish. Machine Learning Performance Latency Optimization Security
 A/B Testing Machine Learning Latency Optimization Difficult roads often lead to beautiful destinations. Load Testing Testing Agile
 Agile Scalability Work hard in silence, let your success be your noise. Optimization Testing Algorithm DevOps Blockchain Database Indexing Deployment Load Balancing React
+Cloud Functions JavaScript CI/CD DevOps Python
