@@ -30,3 +30,4 @@ Code Review Automation DevOps To be the best, you must be able to handle the wor
 Zero Downtime Deployment Microservices Lambda Functions Testing Content Delivery Network Do what you love and the money will follow. Database Innovation distinguishes between a leader and a follower.
 Cloud Docker Zero Downtime Deployment Lambda Functions Message Queue
 Frontend Sharding A/B Testing Innovation distinguishes between a leader and a follower. If you can dream it, you can do it.
+JavaScript Opportunities don't happen. You create them. Containerization Frontend Version Control Code Review Content Delivery Network UX Optimization Don't be afraid to give up the good to go for the great. Scalability DevOps Great things never come from comfort zones. Message Queue Artificial Intelligence
