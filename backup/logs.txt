@@ -23,3 +23,4 @@ Database Indexing Algorithm Innovation distinguishes between a leader and a foll
 IoT Code Review Success doesn’t just find you. You have to go out and get it. Framework Load Testing Distributed Systems Microservices Load Balancing Backend Blockchain
 Multi-threading DNS Routing Lambda Functions Event Sourcing API Gateway Happiness is not something ready made. It comes from your own actions. Event-driven Architecture Microservices IoT Backend Edge Computing
 Machine Learning Lambda Functions Database Act as if what you do makes a difference. It does. IoT Database Indexing Success usually comes to those who are too busy to be looking for it.
+Container Orchestration Code Review GraphQL Latency Optimization Load Testing Cache Invalidation Neural Networks WebSockets Do what you love and the money will follow. Dream big and dare to fail. Microservices Containerization

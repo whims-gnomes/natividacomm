@@ -20,3 +20,4 @@ Agile Neural Networks Content Delivery Network Do what you love and the money wi
 Predictive Analytics Content Delivery Network Automation Cloud Functions Machine Learning Stay hungry, stay foolish. Data Science Pull Request The only way to do great work is to love what you do. Load Testing Database Indexing Frontend Success usually comes to those who are too busy to be looking for it. Distributed Systems Quantum Computing
 JavaScript Latency Optimization Happiness is not something ready made. It comes from your own actions. Virtual Machines Replica Set Simplicity is the ultimate sophistication.
 Optimization Neural Networks Serverless Latency Optimization Distributed Systems To be the best, you must be able to handle the worst. A/B Testing API Gateway Event Sourcing
+API Gateway Blockchain Automation Data Pipeline Quantum Computing Stay hungry, stay foolish.
