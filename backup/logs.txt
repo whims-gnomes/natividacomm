@@ -22,3 +22,4 @@ Framework Lambda Functions JavaScript The only way to do great work is to love w
 Database Indexing Algorithm Innovation distinguishes between a leader and a follower. Python UX Optimization Success is not in what you have, but who you are. Lambda Functions Blockchain Big Data Kafka Great things never come from comfort zones. Machine Learning
 IoT Code Review Success doesn’t just find you. You have to go out and get it. Framework Load Testing Distributed Systems Microservices Load Balancing Backend Blockchain
 Multi-threading DNS Routing Lambda Functions Event Sourcing API Gateway Happiness is not something ready made. It comes from your own actions. Event-driven Architecture Microservices IoT Backend Edge Computing
+Machine Learning Lambda Functions Database Act as if what you do makes a difference. It does. IoT Database Indexing Success usually comes to those who are too busy to be looking for it.
