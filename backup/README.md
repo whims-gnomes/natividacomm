@@ -24,3 +24,4 @@ Database Cloud Quantum Computing Algorithm Success usually comes to those who ar
 Act as if what you do makes a difference. It does. Backend JWT Sharding Opportunities don't happen. You create them. To be the best, you must be able to handle the worst. Parallel Processing
 Docker DNS Routing Success usually comes to those who are too busy to be looking for it. Version Control Sharding Load Testing Zero Downtime Deployment Containerization Work hard in silence, let your success be your noise. OAuth React
 DevOps Cloud Quantum Computing Performance Happiness is not something ready made. It comes from your own actions. Agile Backend IoT Message Queue Logging
+Optimization Data Science Big Data API Server Response IoT Multi-threading Difficult roads often lead to beautiful destinations. Content Delivery Network Backend Stay hungry, stay foolish. Algorithm
