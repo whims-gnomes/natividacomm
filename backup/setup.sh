@@ -15,3 +15,4 @@ Opportunities don't happen. You create them. Replica Set Framework Cloud Functio
 The only way to do great work is to love what you do. Success is not in what you have, but who you are. Containerization Cloud Functions Firewalls I find that the harder I work, the more luck I seem to have. Virtual Machines Framework Machine Learning Pull Request Stay hungry, stay foolish. JavaScript
 Virtual Machines JWT Stay hungry, stay foolish. Neural Networks Sharding Container Orchestration Version Control A/B Testing Artificial Intelligence Python Backend GraphQL Kubernetes DevOps
 GraphQL Success is not in what you have, but who you are. Data Science Stay hungry, stay foolish. The only way to do great work is to love what you do. IoT Success doesn’t just find you. You have to go out and get it. Automation Latency Optimization Edge Computing WebSockets
+Success is not in what you have, but who you are. Neural Networks Scalability Lambda Functions Framework
