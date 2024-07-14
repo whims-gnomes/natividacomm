@@ -19,3 +19,4 @@ Database Indexing Predictive Analytics Machine Learning Version Control Cloud I 
 Zero Downtime Deployment Happiness is not something ready made. It comes from your own actions. Do what you love and the money will follow. Success usually comes to those who are too busy to be looking for it. Monitoring I find that the harder I work, the more luck I seem to have. Automation Quantum Computing Success doesn’t just find you. You have to go out and get it.
 Data Pipeline RabbitMQ Happiness is not something ready made. It comes from your own actions. IoT Deployment Sharding
 Sharding A/B Testing Data Pipeline Python IoT Machine Learning
+Data Pipeline Edge Computing Happiness is not something ready made. It comes from your own actions. Automation Dream big and dare to fail. CI/CD Database Indexing A/B Testing Sharding Success is how high you bounce when you hit bottom. Docker Firewalls Cloud Distributed Systems
