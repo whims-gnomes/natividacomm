@@ -18,3 +18,4 @@ Don't be afraid to give up the good to go for the great. Event-driven Architectu
 Big Data Opportunities don't happen. You create them. Container Orchestration CI/CD Don't be afraid to give up the good to go for the great. IoT Serverless
 Work hard in silence, let your success be your noise. UX Optimization JWT Data Science API RabbitMQ Blockchain Deployment Cloud Functions NLP Don't be afraid to give up the good to go for the great. Agile
 Automation Server Response Big Data Load Testing API Replica Set JavaScript NLP
+DevOps Data Science Containerization Virtual Machines Artificial Intelligence Sharding JWT Security
