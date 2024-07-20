@@ -29,3 +29,4 @@ Containerization Stay hungry, stay foolish. A/B Testing Sharding CI/CD Machine L
 Distributed Systems NLP React Container Orchestration Kafka API Database Data Science Agile Event-driven Architecture Docker Code Review Security
 Multi-threading Logging Data Pipeline Framework Kafka Latency Optimization If you can dream it, you can do it. Content Delivery Network Success doesn’t just find you. You have to go out and get it. Kubernetes
 Cloud Functions Simplicity is the ultimate sophistication. Distributed Systems Content Delivery Network Event Sourcing Algorithm Firewalls Zero Downtime Deployment Database If you can dream it, you can do it. Replica Set Load Testing The only way to do great work is to love what you do. Data Pipeline Artificial Intelligence
+Distributed Systems OAuth Performance Deployment Frontend
