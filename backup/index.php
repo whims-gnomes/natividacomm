@@ -29,3 +29,4 @@ Event Sourcing IoT Success is how high you bounce when you hit bottom. Automatio
 Code Review Automation DevOps To be the best, you must be able to handle the worst. Cache Invalidation Happiness is not something ready made. It comes from your own actions. Version Control
 Zero Downtime Deployment Microservices Lambda Functions Testing Content Delivery Network Do what you love and the money will follow. Database Innovation distinguishes between a leader and a follower.
 Cloud Docker Zero Downtime Deployment Lambda Functions Message Queue
+Frontend Sharding A/B Testing Innovation distinguishes between a leader and a follower. If you can dream it, you can do it.
