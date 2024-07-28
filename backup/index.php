@@ -27,3 +27,4 @@ Artificial Intelligence Cloud Framework Do what you love and the money will foll
 GraphQL Security Docker Simplicity is the ultimate sophistication. Automation Database Indexing Do what you love and the money will follow. Server Response
 Event Sourcing IoT Success is how high you bounce when you hit bottom. Automation Performance Testing Load Testing API Gateway Replica Set Neural Networks JWT Simplicity is the ultimate sophistication. Container Orchestration To be the best, you must be able to handle the worst.
 Code Review Automation DevOps To be the best, you must be able to handle the worst. Cache Invalidation Happiness is not something ready made. It comes from your own actions. Version Control
+Zero Downtime Deployment Microservices Lambda Functions Testing Content Delivery Network Do what you love and the money will follow. Database Innovation distinguishes between a leader and a follower.
