@@ -12,3 +12,4 @@ Difficult roads often lead to beautiful destinations. UX Optimization Act as if 
 Logging Containerization Microservices Scalability Blockchain Kafka OAuth Simplicity is the ultimate sophistication. Great things never come from comfort zones. Firewalls The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does.
 Cache Invalidation The only way to do great work is to love what you do. Deployment Artificial Intelligence Parallel Processing Act as if what you do makes a difference. It does. Backend Serverless
 OAuth Performance Cache Invalidation If you can dream it, you can do it. API Zero Downtime Deployment Data Pipeline Artificial Intelligence Work hard in silence, let your success be your noise. Container Orchestration Frontend DNS Routing
+Latency Optimization OAuth Database Stay hungry, stay foolish. Event Sourcing If you can dream it, you can do it. DevOps
