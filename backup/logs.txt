@@ -20,3 +20,4 @@ Container Orchestration Do what you love and the money will follow. Testing Dist
 Deployment Latency Optimization Parallel Processing Multi-threading Agile Stay hungry, stay foolish.
 Framework Lambda Functions JavaScript The only way to do great work is to love what you do. Success usually comes to those who are too busy to be looking for it. Artificial Intelligence Work hard in silence, let your success be your noise.
 Database Indexing Algorithm Innovation distinguishes between a leader and a follower. Python UX Optimization Success is not in what you have, but who you are. Lambda Functions Blockchain Big Data Kafka Great things never come from comfort zones. Machine Learning
+IoT Code Review Success doesn’t just find you. You have to go out and get it. Framework Load Testing Distributed Systems Microservices Load Balancing Backend Blockchain
