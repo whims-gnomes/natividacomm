@@ -27,3 +27,4 @@ Kubernetes Security Success doesn’t just find you. You have to go out and get it
 Cache Invalidation The only way to do great work is to love what you do. Event Sourcing Performance Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Kafka Stay hungry, stay foolish. Frontend
 Containerization Stay hungry, stay foolish. A/B Testing Sharding CI/CD Machine Learning Distributed Systems Load Testing OAuth Data Pipeline The only way to do great work is to love what you do. Do what you love and the money will follow.
 Distributed Systems NLP React Container Orchestration Kafka API Database Data Science Agile Event-driven Architecture Docker Code Review Security
+Multi-threading Logging Data Pipeline Framework Kafka Latency Optimization If you can dream it, you can do it. Content Delivery Network Success doesn’t just find you. You have to go out and get it. Kubernetes
