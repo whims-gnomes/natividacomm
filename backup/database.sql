@@ -16,3 +16,4 @@ Backend Version Control Quantum Computing Content Delivery Network OAuth Great t
 API Gateway DevOps Edge Computing Artificial Intelligence Content Delivery Network To be the best, you must be able to handle the worst. Database Indexing Cache Invalidation
 Don't be afraid to give up the good to go for the great. Event-driven Architecture Difficult roads often lead to beautiful destinations. Edge Computing Optimization Backend UX Optimization Great things never come from comfort zones. Kubernetes Message Queue Performance DevOps
 Big Data Opportunities don't happen. You create them. Container Orchestration CI/CD Don't be afraid to give up the good to go for the great. IoT Serverless
+Work hard in silence, let your success be your noise. UX Optimization JWT Data Science API RabbitMQ Blockchain Deployment Cloud Functions NLP Don't be afraid to give up the good to go for the great. Agile
