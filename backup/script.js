@@ -17,3 +17,4 @@ Automation Don't be afraid to give up the good to go for the great. Distributed 
 Lambda Functions Database Stay hungry, stay foolish. Replica Set Cloud Big Data
 Dream big and dare to fail. Cloud Functions API Gateway GraphQL Containerization Edge Computing Kafka
 Success doesn’t just find you. You have to go out and get it. Version Control Replica Set If you can dream it, you can do it. Virtual Machines Message Queue Stay hungry, stay foolish. Machine Learning Performance Latency Optimization Security
+A/B Testing Machine Learning Latency Optimization Difficult roads often lead to beautiful destinations. Load Testing Testing Agile

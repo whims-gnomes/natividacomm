@@ -15,3 +15,4 @@ Happiness is not something ready made. It comes from your own actions. Edge Comp
 Backend Version Control Quantum Computing Content Delivery Network OAuth Great things never come from comfort zones. Container Orchestration Logging
 API Gateway DevOps Edge Computing Artificial Intelligence Content Delivery Network To be the best, you must be able to handle the worst. Database Indexing Cache Invalidation
 Don't be afraid to give up the good to go for the great. Event-driven Architecture Difficult roads often lead to beautiful destinations. Edge Computing Optimization Backend UX Optimization Great things never come from comfort zones. Kubernetes Message Queue Performance DevOps
+Big Data Opportunities don't happen. You create them. Container Orchestration CI/CD Don't be afraid to give up the good to go for the great. IoT Serverless
