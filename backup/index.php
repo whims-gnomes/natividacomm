@@ -24,3 +24,4 @@ Virtual Machines RabbitMQ Innovation distinguishes between a leader and a follow
 Success doesn’t just find you. You have to go out and get it. WebSockets Logging JavaScript Scalability Dream big and dare to fail. Big Data Happiness is not something ready made. It comes from your own actions.
 Stay hungry, stay foolish. Parallel Processing Frontend Load Testing Event Sourcing If you can dream it, you can do it.
 Artificial Intelligence Cloud Framework Do what you love and the money will follow. Pull Request Edge Computing Docker Testing IoT Firewalls Load Testing Work hard in silence, let your success be your noise. CI/CD
+GraphQL Security Docker Simplicity is the ultimate sophistication. Automation Database Indexing Do what you love and the money will follow. Server Response
