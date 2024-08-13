@@ -16,3 +16,4 @@ NLP Backend Latency Optimization A/B Testing Cloud
 Automation Don't be afraid to give up the good to go for the great. Distributed Systems Sharding Great things never come from comfort zones. Kafka Scalability Frontend Deployment DevOps React To be the best, you must be able to handle the worst. Backend JWT API Gateway
 Lambda Functions Database Stay hungry, stay foolish. Replica Set Cloud Big Data
 Dream big and dare to fail. Cloud Functions API Gateway GraphQL Containerization Edge Computing Kafka
+Success doesn’t just find you. You have to go out and get it. Version Control Replica Set If you can dream it, you can do it. Virtual Machines Message Queue Stay hungry, stay foolish. Machine Learning Performance Latency Optimization Security
