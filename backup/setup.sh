@@ -11,3 +11,4 @@ Success doesn’t just find you. You have to go out and get it. Monitoring Backend
 WebSockets Deployment API Gateway Neural Networks The only way to do great work is to love what you do. Serverless Performance RabbitMQ Lambda Functions Containerization Python Zero Downtime Deployment Act as if what you do makes a difference. It does.
 Dream big and dare to fail. A/B Testing Cloud RabbitMQ Multi-threading Version Control
 Quantum Computing Kubernetes Pull Request Code Review DevOps Data Science Virtual Machines Security OAuth Innovation distinguishes between a leader and a follower. Cloud Scalability Firewalls NLP Blockchain
+Opportunities don't happen. You create them. Replica Set Framework Cloud Functions Multi-threading Optimization OAuth Success is not in what you have, but who you are. Blockchain Kubernetes API Gateway Load Testing
