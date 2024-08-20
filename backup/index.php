@@ -23,3 +23,4 @@ Containerization Microservices React Stay hungry, stay foolish. Virtual Machines
 Virtual Machines RabbitMQ Innovation distinguishes between a leader and a follower. Backend Load Balancing Version Control Data Pipeline Python To be the best, you must be able to handle the worst. Artificial Intelligence Edge Computing GraphQL Firewalls Work hard in silence, let your success be your noise.
 Success doesn’t just find you. You have to go out and get it. WebSockets Logging JavaScript Scalability Dream big and dare to fail. Big Data Happiness is not something ready made. It comes from your own actions.
 Stay hungry, stay foolish. Parallel Processing Frontend Load Testing Event Sourcing If you can dream it, you can do it.
+Artificial Intelligence Cloud Framework Do what you love and the money will follow. Pull Request Edge Computing Docker Testing IoT Firewalls Load Testing Work hard in silence, let your success be your noise. CI/CD
