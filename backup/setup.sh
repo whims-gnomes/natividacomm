@@ -8,3 +8,4 @@ WebSockets To be the best, you must be able to handle the worst. API Frontend Op
 Machine Learning OAuth Sharding Zero Downtime Deployment Data Pipeline Database Data Science Security Stay hungry, stay foolish. Backend
 DNS Routing Logging UX Optimization Containerization React Server Response API NLP Backend Content Delivery Network Firewalls
 Success doesn’t just find you. You have to go out and get it. Monitoring Backend GraphQL Framework DevOps Parallel Processing Edge Computing Machine Learning OAuth Agile Virtual Machines Success is not in what you have, but who you are. Quantum Computing
+WebSockets Deployment API Gateway Neural Networks The only way to do great work is to love what you do. Serverless Performance RabbitMQ Lambda Functions Containerization Python Zero Downtime Deployment Act as if what you do makes a difference. It does.
