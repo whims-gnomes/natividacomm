@@ -15,3 +15,4 @@ Success is how high you bounce when you hit bottom. UX Optimization Simplicity i
 NLP Backend Latency Optimization A/B Testing Cloud
 Automation Don't be afraid to give up the good to go for the great. Distributed Systems Sharding Great things never come from comfort zones. Kafka Scalability Frontend Deployment DevOps React To be the best, you must be able to handle the worst. Backend JWT API Gateway
 Lambda Functions Database Stay hungry, stay foolish. Replica Set Cloud Big Data
+Dream big and dare to fail. Cloud Functions API Gateway GraphQL Containerization Edge Computing Kafka
