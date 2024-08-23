@@ -10,3 +10,4 @@ Parallel Processing Performance Machine Learning Simplicity is the ultimate soph
 Dream big and dare to fail. Quantum Computing Event Sourcing Predictive Analytics Multi-threading Sharding Backend
 Difficult roads often lead to beautiful destinations. UX Optimization Act as if what you do makes a difference. It does. Lambda Functions React Server Response The only way to do great work is to love what you do. Machine Learning Pull Request
 Logging Containerization Microservices Scalability Blockchain Kafka OAuth Simplicity is the ultimate sophistication. Great things never come from comfort zones. Firewalls The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does.
+Cache Invalidation The only way to do great work is to love what you do. Deployment Artificial Intelligence Parallel Processing Act as if what you do makes a difference. It does. Backend Serverless
