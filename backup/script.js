@@ -14,3 +14,4 @@ IoT JWT RabbitMQ Big Data Monitoring Opportunities don't happen. You create them
 Success is how high you bounce when you hit bottom. UX Optimization Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. API Gateway Big Data The only way to do great work is to love what you do. Database Microservices Replica Set Data Pipeline Cache Invalidation Container Orchestration Edge Computing Testing
 NLP Backend Latency Optimization A/B Testing Cloud
 Automation Don't be afraid to give up the good to go for the great. Distributed Systems Sharding Great things never come from comfort zones. Kafka Scalability Frontend Deployment DevOps React To be the best, you must be able to handle the worst. Backend JWT API Gateway
+Lambda Functions Database Stay hungry, stay foolish. Replica Set Cloud Big Data
