@@ -19,3 +19,4 @@ Multi-threading Optimization Monitoring Serverless WebSockets Docker Zero Downti
 Replica Set Performance Framework OAuth Kafka Cloud Success is how high you bounce when you hit bottom. Virtual Machines Dream big and dare to fail. GraphQL Server Response
 Great things never come from comfort zones. Zero Downtime Deployment Code Review Scalability RabbitMQ Serverless Neural Networks Virtual Machines Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. Cloud Functions Do what you love and the money will follow. Deployment Kafka
 Machine Learning UX Optimization API Cache Invalidation Replica Set Work hard in silence, let your success be your noise. Edge Computing Great things never come from comfort zones. Logging Python Scalability
+Containerization Microservices React Stay hungry, stay foolish. Virtual Machines Database Indexing Load Balancing
