@@ -13,3 +13,4 @@ Zero Downtime Deployment Edge Computing Event Sourcing Do what you love and the 
 Containerization To be the best, you must be able to handle the worst. Database Indexing CI/CD JWT Event-driven Architecture GraphQL Pull Request
 OAuth The only way to do great work is to love what you do. Success usually comes to those who are too busy to be looking for it. Kafka Agile JWT Load Testing WebSockets
 Predictive Analytics Algorithm Don't be afraid to give up the good to go for the great. UX Optimization Monitoring Framework
+Database Indexing Container Orchestration Cloud Work hard in silence, let your success be your noise. React Blockchain OAuth Security Simplicity is the ultimate sophistication. Deployment Zero Downtime Deployment Edge Computing Predictive Analytics Stay hungry, stay foolish. Artificial Intelligence
