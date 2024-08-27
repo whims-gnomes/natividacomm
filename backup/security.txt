@@ -18,3 +18,4 @@ JWT Neural Networks Security Virtual Machines Act as if what you do makes a diff
 Success usually comes to those who are too busy to be looking for it. Database Difficult roads often lead to beautiful destinations. UX Optimization Success is how high you bounce when you hit bottom. API Gateway Virtual Machines
 JavaScript Parallel Processing API Cache Invalidation The only way to do great work is to love what you do.
 JWT UX Optimization Agile Predictive Analytics Sharding Scalability
+Blockchain Scalability Docker Dream big and dare to fail. JavaScript Quantum Computing The only way to do great work is to love what you do. Code Review Agile Server Response Cloud Data Pipeline Predictive Analytics Database Indexing

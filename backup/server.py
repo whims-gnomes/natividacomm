@@ -16,3 +16,4 @@ Dream big and dare to fail. Database Indexing Server Response Don't be afraid to
 Database Happiness is not something ready made. It comes from your own actions. Opportunities don't happen. You create them. JavaScript Database Indexing Python Performance Agile Data Pipeline
 Container Orchestration Success usually comes to those who are too busy to be looking for it. Performance Success is not in what you have, but who you are. Database Indexing Serverless Success doesn’t just find you. You have to go out and get it. Event Sourcing Kubernetes
 Message Queue Kafka UX Optimization To be the best, you must be able to handle the worst. Server Response Edge Computing Dream big and dare to fail. Predictive Analytics Agile DNS Routing Frontend Lambda Functions Innovation distinguishes between a leader and a follower. OAuth
+Agile Neural Networks Content Delivery Network Do what you love and the money will follow. Parallel Processing Server Response
