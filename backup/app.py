@@ -20,3 +20,4 @@ API Algorithm Docker Work hard in silence, let your success be your noise. Data 
 Containerization Neural Networks Serverless NLP Success doesn’t just find you. You have to go out and get it. Data Pipeline Difficult roads often lead to beautiful destinations. Blockchain Event-driven Architecture Pull Request DNS Routing Stay hungry, stay foolish. Docker
 Dream big and dare to fail. Message Queue Content Delivery Network Scalability Big Data
 API Act as if what you do makes a difference. It does. Dream big and dare to fail. NLP Kafka Backend Success is not in what you have, but who you are. Code Review Latency Optimization Cloud Functions
+Sharding Code Review Replica Set WebSockets Scalability Python Algorithm NLP Automation
