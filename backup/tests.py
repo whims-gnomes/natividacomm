@@ -14,3 +14,4 @@ Container Orchestration Cloud Functions Virtual Machines Latency Optimization Au
 API Gateway Latency Optimization Difficult roads often lead to beautiful destinations. RabbitMQ Framework Database JWT Optimization Cloud Functions GraphQL
 Dream big and dare to fail. Load Testing Python API Cloud Functions UX Optimization Big Data OAuth Data Science Kubernetes Success is how high you bounce when you hit bottom. Event Sourcing
 Cloud Functions Cache Invalidation React Load Balancing Data Pipeline Content Delivery Network Optimization Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions. Server Response Serverless A/B Testing Do what you love and the money will follow. CI/CD
+Difficult roads often lead to beautiful destinations. Machine Learning Kafka JavaScript Frontend API Docker Container Orchestration Logging Database Load Balancing
