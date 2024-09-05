@@ -13,3 +13,4 @@ To be the best, you must be able to handle the worst. Python Quantum Computing L
 Container Orchestration Cloud Functions Virtual Machines Latency Optimization Automation Content Delivery Network Artificial Intelligence
 API Gateway Latency Optimization Difficult roads often lead to beautiful destinations. RabbitMQ Framework Database JWT Optimization Cloud Functions GraphQL
 Dream big and dare to fail. Load Testing Python API Cloud Functions UX Optimization Big Data OAuth Data Science Kubernetes Success is how high you bounce when you hit bottom. Event Sourcing
+Cloud Functions Cache Invalidation React Load Balancing Data Pipeline Content Delivery Network Optimization Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions. Server Response Serverless A/B Testing Do what you love and the money will follow. CI/CD
