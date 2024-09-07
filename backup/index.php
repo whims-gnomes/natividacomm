@@ -16,3 +16,4 @@ Zero Downtime Deployment The only way to do great work is to love what you do. K
 Frontend IoT Docker Simplicity is the ultimate sophistication. Quantum Computing API Database Indexing Backend Message Queue UX Optimization
 Docker Database Indexing Latency Optimization Predictive Analytics Data Pipeline Scalability Great things never come from comfort zones. Load Balancing Kubernetes Distributed Systems RabbitMQ
 Multi-threading Optimization Monitoring Serverless WebSockets Docker Zero Downtime Deployment Kafka DNS Routing To be the best, you must be able to handle the worst.
+Replica Set Performance Framework OAuth Kafka Cloud Success is how high you bounce when you hit bottom. Virtual Machines Dream big and dare to fail. GraphQL Server Response
