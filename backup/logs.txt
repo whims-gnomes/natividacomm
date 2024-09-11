@@ -17,3 +17,4 @@ RabbitMQ API Microservices Zero Downtime Deployment Automation Kubernetes
 DevOps Database Indexing Blockchain Data Pipeline Edge Computing Cloud Testing Load Balancing
 Algorithm Opportunities don't happen. You create them. Cloud Functions Version Control API Gateway Cloud Innovation distinguishes between a leader and a follower. Containerization OAuth Data Pipeline React Monitoring Dream big and dare to fail. Python Data Science
 Container Orchestration Do what you love and the money will follow. Testing Distributed Systems CI/CD Big Data Replica Set Load Testing Multi-threading
+Deployment Latency Optimization Parallel Processing Multi-threading Agile Stay hungry, stay foolish.
