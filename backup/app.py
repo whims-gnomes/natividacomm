@@ -17,3 +17,4 @@ NLP JWT Testing Success is not in what you have, but who you are. Microservices 
 Difficult roads often lead to beautiful destinations. Security Cloud Functions Latency Optimization Serverless NLP Data Science Content Delivery Network
 Latency Optimization Backend Don't be afraid to give up the good to go for the great. Do what you love and the money will follow. Simplicity is the ultimate sophistication.
 API Algorithm Docker Work hard in silence, let your success be your noise. Data Science Load Balancing Edge Computing
+Containerization Neural Networks Serverless NLP Success doesn’t just find you. You have to go out and get it. Data Pipeline Difficult roads often lead to beautiful destinations. Blockchain Event-driven Architecture Pull Request DNS Routing Stay hungry, stay foolish. Docker
