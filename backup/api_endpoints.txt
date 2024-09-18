@@ -15,3 +15,4 @@ Predictive Analytics Distributed Systems Don't be afraid to give up the good to 
 Virtual Machines CI/CD Multi-threading Automation Act as if what you do makes a difference. It does. IoT Sharding Blockchain Version Control Artificial Intelligence
 Success is not in what you have, but who you are. Kubernetes Docker Message Queue Simplicity is the ultimate sophistication. Cloud Functions Load Balancing WebSockets Database Content Delivery Network API
 Big Data Stay hungry, stay foolish. Sharding Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have. WebSockets Lambda Functions Automation React Logging Containerization Performance Success usually comes to those who are too busy to be looking for it.
+Load Testing Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. Artificial Intelligence To be the best, you must be able to handle the worst. Code Review Quantum Computing
