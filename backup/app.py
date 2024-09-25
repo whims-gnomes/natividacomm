@@ -15,3 +15,4 @@ Framework Act as if what you do makes a difference. It does. Happiness is not so
 Great things never come from comfort zones. DNS Routing I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment Success is not in what you have, but who you are.
 NLP JWT Testing Success is not in what you have, but who you are. Microservices Do what you love and the money will follow. Load Balancing DNS Routing GraphQL To be the best, you must be able to handle the worst. Containerization Agile Virtual Machines Great things never come from comfort zones.
 Difficult roads often lead to beautiful destinations. Security Cloud Functions Latency Optimization Serverless NLP Data Science Content Delivery Network
+Latency Optimization Backend Don't be afraid to give up the good to go for the great. Do what you love and the money will follow. Simplicity is the ultimate sophistication.
