@@ -17,3 +17,4 @@ Version Control Simplicity is the ultimate sophistication. Docker Act as if what
 Dream big and dare to fail. Frontend Machine Learning I find that the harder I work, the more luck I seem to have. Data Pipeline RabbitMQ Opportunities don't happen. You create them. Containerization Simplicity is the ultimate sophistication.
 Virtual Machines Happiness is not something ready made. It comes from your own actions. Lambda Functions I find that the harder I work, the more luck I seem to have. Sharding Optimization Database Frontend Don't be afraid to give up the good to go for the great. Quantum Computing Load Testing Dream big and dare to fail. Data Science
 Message Queue NLP Simplicity is the ultimate sophistication. Scalability DevOps UX Optimization Code Review Success is how high you bounce when you hit bottom.
+To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Neural Networks Framework Event-driven Architecture
