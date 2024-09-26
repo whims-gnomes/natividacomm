@@ -17,3 +17,4 @@ Quantum Computing DNS Routing Data Science Happiness is not something ready made
 Python IoT Automation Pull Request Database Indexing Docker A/B Testing Innovation distinguishes between a leader and a follower. Testing The only way to do great work is to love what you do. Server Response
 Python Parallel Processing NLP Version Control Content Delivery Network React Firewalls I find that the harder I work, the more luck I seem to have. Blockchain Happiness is not something ready made. It comes from your own actions. Data Pipeline Algorithm
 UX Optimization Latency Optimization Happiness is not something ready made. It comes from your own actions. DNS Routing Blockchain Backend
+Cloud Work hard in silence, let your success be your noise. DNS Routing OAuth Database Python Edge Computing IoT Load Balancing Quantum Computing Lambda Functions Container Orchestration Monitoring
