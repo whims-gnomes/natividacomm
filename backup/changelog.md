@@ -21,3 +21,4 @@ Data Science Performance Optimization Act as if what you do makes a difference. 
 Monitoring Act as if what you do makes a difference. It does. Framework To be the best, you must be able to handle the worst. Algorithm
 Success is not in what you have, but who you are. Framework Work hard in silence, let your success be your noise. RabbitMQ Cloud Functions React
 Frontend IoT WebSockets Big Data Container Orchestration Load Balancing Stay hungry, stay foolish. Kubernetes Pull Request Artificial Intelligence Scalability
+Big Data Great things never come from comfort zones. Neural Networks Machine Learning IoT Message Queue Docker
