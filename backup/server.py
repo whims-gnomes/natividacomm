@@ -10,3 +10,4 @@ Sharding API Gateway Multi-threading Automation Lambda Functions Latency Optimiz
 Stay hungry, stay foolish. WebSockets Big Data Sharding Cloud Distributed Systems JWT Data Pipeline
 Replica Set IoT Don't be afraid to give up the good to go for the great. Agile Sharding Python Microservices DNS Routing Content Delivery Network GraphQL
 Dream big and dare to fail. Don't be afraid to give up the good to go for the great. NLP The only way to do great work is to love what you do. Cloud Load Balancing Replica Set Monitoring Quantum Computing GraphQL Data Pipeline Stay hungry, stay foolish. Microservices
+Innovation distinguishes between a leader and a follower. Parallel Processing Python The only way to do great work is to love what you do. Replica Set Algorithm Don't be afraid to give up the good to go for the great. Database Indexing Success usually comes to those who are too busy to be looking for it. To be the best, you must be able to handle the worst.
