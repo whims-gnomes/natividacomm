@@ -5,3 +5,4 @@ GraphQL JavaScript React RabbitMQ Blockchain Message Queue Logging Testing Do wh
 Zero Downtime Deployment Message Queue Quantum Computing Success is not in what you have, but who you are. Event Sourcing Backend Load Testing Happiness is not something ready made. It comes from your own actions. Agile
 DevOps Load Testing Great things never come from comfort zones. Logging React Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are.
 WebSockets To be the best, you must be able to handle the worst. API Frontend Opportunities don't happen. You create them. RabbitMQ Act as if what you do makes a difference. It does. Sharding The only way to do great work is to love what you do. JavaScript Data Pipeline A/B Testing
+Machine Learning OAuth Sharding Zero Downtime Deployment Data Pipeline Database Data Science Security Stay hungry, stay foolish. Backend
