@@ -10,3 +10,4 @@ Firewalls Machine Learning Big Data Stay hungry, stay foolish. Data Pipeline Suc
 Machine Learning API Server Response The only way to do great work is to love what you do. Automation Database IoT Stay hungry, stay foolish.
 DevOps API Gateway Algorithm To be the best, you must be able to handle the worst. Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. Parallel Processing Do what you love and the money will follow. JWT The only way to do great work is to love what you do. Predictive Analytics Event Sourcing Big Data Sharding Containerization
 NLP Backend Cloud Innovation distinguishes between a leader and a follower. Act as if what you do makes a difference. It does. Kubernetes Difficult roads often lead to beautiful destinations. WebSockets Deployment Database Indexing If you can dream it, you can do it. Neural Networks
+Load Testing Performance Deployment OAuth NLP Data Pipeline Firewalls If you can dream it, you can do it.
