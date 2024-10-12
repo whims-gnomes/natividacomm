@@ -12,3 +12,4 @@ IoT I find that the harder I work, the more luck I seem to have. Agile UX Optimi
 Automation Act as if what you do makes a difference. It does. Success doesn’t just find you. You have to go out and get it. Kubernetes Success is not in what you have, but who you are. Database Cache Invalidation Difficult roads often lead to beautiful destinations. If you can dream it, you can do it.
 Database Replica Set RabbitMQ Artificial Intelligence Lambda Functions Quantum Computing Innovation distinguishes between a leader and a follower. React
 Predictive Analytics Distributed Systems Don't be afraid to give up the good to go for the great. Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Firewalls Latency Optimization Blockchain Load Testing
+Virtual Machines CI/CD Multi-threading Automation Act as if what you do makes a difference. It does. IoT Sharding Blockchain Version Control Artificial Intelligence
