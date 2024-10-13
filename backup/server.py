@@ -8,3 +8,4 @@ Microservices Innovation distinguishes between a leader and a follower. Cloud Bi
 Cloud Work hard in silence, let your success be your noise. Dream big and dare to fail. IoT React
 Sharding API Gateway Multi-threading Automation Lambda Functions Latency Optimization
 Stay hungry, stay foolish. WebSockets Big Data Sharding Cloud Distributed Systems JWT Data Pipeline
+Replica Set IoT Don't be afraid to give up the good to go for the great. Agile Sharding Python Microservices DNS Routing Content Delivery Network GraphQL
