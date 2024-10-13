@@ -9,3 +9,4 @@ Cloud Work hard in silence, let your success be your noise. Dream big and dare t
 Sharding API Gateway Multi-threading Automation Lambda Functions Latency Optimization
 Stay hungry, stay foolish. WebSockets Big Data Sharding Cloud Distributed Systems JWT Data Pipeline
 Replica Set IoT Don't be afraid to give up the good to go for the great. Agile Sharding Python Microservices DNS Routing Content Delivery Network GraphQL
+Dream big and dare to fail. Don't be afraid to give up the good to go for the great. NLP The only way to do great work is to love what you do. Cloud Load Balancing Replica Set Monitoring Quantum Computing GraphQL Data Pipeline Stay hungry, stay foolish. Microservices
