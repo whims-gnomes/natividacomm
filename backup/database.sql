@@ -10,3 +10,4 @@ Edge Computing OAuth Success is not in what you have, but who you are. Scalabili
 Microservices Success is how high you bounce when you hit bottom. Load Balancing Replica Set Simplicity is the ultimate sophistication. Kafka Logging Innovation distinguishes between a leader and a follower. Predictive Analytics If you can dream it, you can do it.
 The only way to do great work is to love what you do. Dream big and dare to fail. Pull Request Code Review RabbitMQ DevOps Content Delivery Network Opportunities don't happen. You create them.
 Database Indexing Edge Computing Cache Invalidation Firewalls Predictive Analytics Frontend Message Queue Python React Dream big and dare to fail. Success is not in what you have, but who you are. Container Orchestration
+Kubernetes Lambda Functions Load Balancing OAuth Data Pipeline Version Control WebSockets Quantum Computing Simplicity is the ultimate sophistication. Monitoring Cloud

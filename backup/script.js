@@ -8,3 +8,4 @@ Event Sourcing Cloud Functions Scalability Neural Networks Artificial Intelligen
 DevOps Dream big and dare to fail. Do what you love and the money will follow. OAuth JWT Security
 To be the best, you must be able to handle the worst. Firewalls Serverless OAuth JavaScript UX Optimization Event Sourcing If you can dream it, you can do it. Container Orchestration NLP Code Review Opportunities don't happen. You create them.
 Cache Invalidation Data Pipeline Monitoring Distributed Systems OAuth Success is not in what you have, but who you are. Containerization Edge Computing
+Load Testing Code Review Big Data Neural Networks Data Science Algorithm Don't be afraid to give up the good to go for the great. If you can dream it, you can do it.
