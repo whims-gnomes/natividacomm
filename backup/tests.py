@@ -11,3 +11,4 @@ Data Science Data Pipeline Logging Monitoring Frontend Happiness is not somethin
 Monitoring WebSockets Testing Framework Security Backend
 To be the best, you must be able to handle the worst. Python Quantum Computing Latency Optimization Difficult roads often lead to beautiful destinations.
 Container Orchestration Cloud Functions Virtual Machines Latency Optimization Automation Content Delivery Network Artificial Intelligence
+API Gateway Latency Optimization Difficult roads often lead to beautiful destinations. RabbitMQ Framework Database JWT Optimization Cloud Functions GraphQL
