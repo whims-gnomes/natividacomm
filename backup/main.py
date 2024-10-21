@@ -13,3 +13,4 @@ Sharding Database Indexing Backend Data Pipeline JWT Monitoring WebSockets The o
 Content Delivery Network Testing WebSockets Simplicity is the ultimate sophistication. RabbitMQ Neural Networks Security
 Edge Computing Cloud Event Sourcing Dream big and dare to fail. Do what you love and the money will follow. Python Latency Optimization Act as if what you do makes a difference. It does. Multi-threading Sharding DevOps Load Balancing To be the best, you must be able to handle the worst.
 Difficult roads often lead to beautiful destinations. DNS Routing Simplicity is the ultimate sophistication. Multi-threading Replica Set Cloud Big Data Deployment
+Quantum Computing DNS Routing Data Science Happiness is not something ready made. It comes from your own actions. Backend Scalability Success doesn’t just find you. You have to go out and get it. Big Data NLP To be the best, you must be able to handle the worst. Machine Learning Lambda Functions

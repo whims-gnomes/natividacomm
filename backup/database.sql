@@ -8,3 +8,4 @@ Blockchain Framework JWT Don't be afraid to give up the good to go for the great
 Automation Kubernetes Pull Request Stay hungry, stay foolish. Backend Event Sourcing
 Edge Computing OAuth Success is not in what you have, but who you are. Scalability Great things never come from comfort zones. JavaScript Innovation distinguishes between a leader and a follower. API RabbitMQ Event-driven Architecture DNS Routing Deployment
 Microservices Success is how high you bounce when you hit bottom. Load Balancing Replica Set Simplicity is the ultimate sophistication. Kafka Logging Innovation distinguishes between a leader and a follower. Predictive Analytics If you can dream it, you can do it.
+The only way to do great work is to love what you do. Dream big and dare to fail. Pull Request Code Review RabbitMQ DevOps Content Delivery Network Opportunities don't happen. You create them.
