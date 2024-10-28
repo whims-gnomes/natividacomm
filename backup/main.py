@@ -12,3 +12,4 @@ Cloud Functions Neural Networks API GraphQL I find that the harder I work, the m
 Sharding Database Indexing Backend Data Pipeline JWT Monitoring WebSockets The only way to do great work is to love what you do. Neural Networks
 Content Delivery Network Testing WebSockets Simplicity is the ultimate sophistication. RabbitMQ Neural Networks Security
 Edge Computing Cloud Event Sourcing Dream big and dare to fail. Do what you love and the money will follow. Python Latency Optimization Act as if what you do makes a difference. It does. Multi-threading Sharding DevOps Load Balancing To be the best, you must be able to handle the worst.
+Difficult roads often lead to beautiful destinations. DNS Routing Simplicity is the ultimate sophistication. Multi-threading Replica Set Cloud Big Data Deployment
