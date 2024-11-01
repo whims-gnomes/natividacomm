@@ -9,3 +9,4 @@ Big Data Replica Set Frontend Machine Learning Framework A/B Testing NLP The onl
 CI/CD WebSockets Lambda Functions IoT Neural Networks Blockchain Multi-threading
 Success usually comes to those who are too busy to be looking for it. Predictive Analytics Neural Networks RabbitMQ Act as if what you do makes a difference. It does. Artificial Intelligence
 IoT I find that the harder I work, the more luck I seem to have. DNS Routing Code Review Event Sourcing Quantum Computing Microservices Simplicity is the ultimate sophistication. Load Balancing Sharding Cache Invalidation Database
+Simplicity is the ultimate sophistication. Agile Event Sourcing Cloud Functions Predictive Analytics Success doesn’t just find you. You have to go out and get it. Load Testing JavaScript Virtual Machines I find that the harder I work, the more luck I seem to have.
