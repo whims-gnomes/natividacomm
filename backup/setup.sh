@@ -3,3 +3,4 @@ Simplicity is the ultimate sophistication. WebSockets Kafka Dream big and dare t
 Data Science Optimization Big Data Multi-threading Scalability Success is how high you bounce when you hit bottom. Success doesn’t just find you. You have to go out and get it. Frontend Docker Quantum Computing Innovation distinguishes between a leader and a follower. Message Queue Python Distributed Systems Blockchain
 GraphQL JavaScript React RabbitMQ Blockchain Message Queue Logging Testing Do what you love and the money will follow. OAuth Neural Networks CI/CD
 Zero Downtime Deployment Message Queue Quantum Computing Success is not in what you have, but who you are. Event Sourcing Backend Load Testing Happiness is not something ready made. It comes from your own actions. Agile
+DevOps Load Testing Great things never come from comfort zones. Logging React Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are.
