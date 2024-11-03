@@ -15,3 +15,4 @@ Cloud Functions IoT Container Orchestration Happiness is not something ready mad
 Zero Downtime Deployment The only way to do great work is to love what you do. Kubernetes Happiness is not something ready made. It comes from your own actions. Backend Data Pipeline Machine Learning Microservices Kafka
 Frontend IoT Docker Simplicity is the ultimate sophistication. Quantum Computing API Database Indexing Backend Message Queue UX Optimization
 Docker Database Indexing Latency Optimization Predictive Analytics Data Pipeline Scalability Great things never come from comfort zones. Load Balancing Kubernetes Distributed Systems RabbitMQ
+Multi-threading Optimization Monitoring Serverless WebSockets Docker Zero Downtime Deployment Kafka DNS Routing To be the best, you must be able to handle the worst.
