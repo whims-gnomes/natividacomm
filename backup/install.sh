@@ -8,3 +8,4 @@ Distributed Systems DevOps CI/CD Event-driven Architecture Blockchain JavaScript
 Big Data Replica Set Frontend Machine Learning Framework A/B Testing NLP The only way to do great work is to love what you do. Optimization Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does.
 CI/CD WebSockets Lambda Functions IoT Neural Networks Blockchain Multi-threading
 Success usually comes to those who are too busy to be looking for it. Predictive Analytics Neural Networks RabbitMQ Act as if what you do makes a difference. It does. Artificial Intelligence
+IoT I find that the harder I work, the more luck I seem to have. DNS Routing Code Review Event Sourcing Quantum Computing Microservices Simplicity is the ultimate sophistication. Load Balancing Sharding Cache Invalidation Database
