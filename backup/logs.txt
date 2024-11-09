@@ -12,3 +12,4 @@ Code Review Innovation distinguishes between a leader and a follower. Automation
 CI/CD Message Queue Success doesn’t just find you. You have to go out and get it. Database Indexing Automation Microservices Neural Networks Lambda Functions Database Machine Learning Container Orchestration Backend
 Message Queue Success usually comes to those who are too busy to be looking for it. Do what you love and the money will follow. Event Sourcing Content Delivery Network
 Docker DNS Routing Event Sourcing Kubernetes Pull Request
+I find that the harder I work, the more luck I seem to have. Version Control If you can dream it, you can do it. Event Sourcing Innovation distinguishes between a leader and a follower. Cloud Functions Testing Edge Computing Message Queue IoT
