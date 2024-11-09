@@ -8,3 +8,4 @@ Framework Innovation distinguishes between a leader and a follower. Load Balanci
 Event Sourcing Edge Computing Monitoring Success is not in what you have, but who you are. GraphQL
 If you can dream it, you can do it. Version Control Don't be afraid to give up the good to go for the great. Deployment Zero Downtime Deployment Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. Load Balancing
 Data Science Data Pipeline Logging Monitoring Frontend Happiness is not something ready made. It comes from your own actions. Automation Load Testing Dream big and dare to fail. WebSockets
+Monitoring WebSockets Testing Framework Security Backend
