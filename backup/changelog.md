@@ -13,3 +13,4 @@ Database Message Queue Blockchain Frontend Pull Request Dream big and dare to fa
 Microservices Automation JavaScript Database GraphQL Backend Quantum Computing Testing Cloud Functions
 Containerization Framework Machine Learning Pull Request Success usually comes to those who are too busy to be looking for it. Code Review Happiness is not something ready made. It comes from your own actions. Difficult roads often lead to beautiful destinations. Event-driven Architecture Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. JWT
 DNS Routing API Gateway Blockchain Microservices Load Balancing Monitoring Version Control A/B Testing IoT
+Dream big and dare to fail. Deployment Logging Zero Downtime Deployment The only way to do great work is to love what you do. Edge Computing Act as if what you do makes a difference. It does. Do what you love and the money will follow. IoT API Gateway
