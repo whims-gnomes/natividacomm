@@ -7,3 +7,4 @@ Frontend Python Version Control Work hard in silence, let your success be your n
 Distributed Systems DevOps CI/CD Event-driven Architecture Blockchain JavaScript Security Load Testing NLP Algorithm Big Data
 Big Data Replica Set Frontend Machine Learning Framework A/B Testing NLP The only way to do great work is to love what you do. Optimization Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does.
 CI/CD WebSockets Lambda Functions IoT Neural Networks Blockchain Multi-threading
+Success usually comes to those who are too busy to be looking for it. Predictive Analytics Neural Networks RabbitMQ Act as if what you do makes a difference. It does. Artificial Intelligence

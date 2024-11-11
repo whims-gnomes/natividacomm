@@ -14,3 +14,4 @@ Automation Algorithm Data Science Deployment Docker Cloud Happiness is not somet
 Cloud Functions IoT Container Orchestration Happiness is not something ready made. It comes from your own actions. Code Review Load Balancing Work hard in silence, let your success be your noise. Docker Multi-threading
 Zero Downtime Deployment The only way to do great work is to love what you do. Kubernetes Happiness is not something ready made. It comes from your own actions. Backend Data Pipeline Machine Learning Microservices Kafka
 Frontend IoT Docker Simplicity is the ultimate sophistication. Quantum Computing API Database Indexing Backend Message Queue UX Optimization
+Docker Database Indexing Latency Optimization Predictive Analytics Data Pipeline Scalability Great things never come from comfort zones. Load Balancing Kubernetes Distributed Systems RabbitMQ

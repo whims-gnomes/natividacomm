@@ -8,3 +8,4 @@ Container Orchestration Code Review Virtual Machines Cloud Sharding Scalability 
 Code Review Virtual Machines Data Science React JavaScript Logging Stay hungry, stay foolish. Scalability Edge Computing Python Neural Networks RabbitMQ Kafka
 Parallel Processing Work hard in silence, let your success be your noise. Monitoring Message Queue Dream big and dare to fail.
 Scalability If you can dream it, you can do it. Machine Learning IoT Replica Set Simplicity is the ultimate sophistication. NLP Success is not in what you have, but who you are. Framework Parallel Processing Firewalls Message Queue
+Edge Computing Container Orchestration Monitoring Blockchain Multi-threading A/B Testing Artificial Intelligence To be the best, you must be able to handle the worst. CI/CD Do what you love and the money will follow. Success is not in what you have, but who you are. Frontend
