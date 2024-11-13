@@ -6,3 +6,4 @@ Code Review Version Control Data Science Containerization Replica Set GraphQL I 
 Frontend Python Version Control Work hard in silence, let your success be your noise. JavaScript Do what you love and the money will follow. CI/CD UX Optimization Distributed Systems Predictive Analytics IoT Load Testing Edge Computing Logging
 Distributed Systems DevOps CI/CD Event-driven Architecture Blockchain JavaScript Security Load Testing NLP Algorithm Big Data
 Big Data Replica Set Frontend Machine Learning Framework A/B Testing NLP The only way to do great work is to love what you do. Optimization Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does.
+CI/CD WebSockets Lambda Functions IoT Neural Networks Blockchain Multi-threading
