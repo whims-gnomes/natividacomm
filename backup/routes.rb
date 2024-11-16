@@ -11,3 +11,4 @@ Simplicity is the ultimate sophistication. Load Testing Machine Learning Databas
 Parallel Processing WebSockets Code Review Great things never come from comfort zones. Microservices
 JWT OAuth Data Science Serverless Content Delivery Network
 Kubernetes Artificial Intelligence API Dream big and dare to fail. Automation Deployment Latency Optimization Kafka DevOps Happiness is not something ready made. It comes from your own actions. Success is how high you bounce when you hit bottom.
+React Big Data Success is not in what you have, but who you are. Distributed Systems Cloud Functions Cache Invalidation JWT
