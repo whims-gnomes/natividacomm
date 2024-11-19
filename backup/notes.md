@@ -4,3 +4,4 @@ React Lambda Functions Success usually comes to those who are too busy to be loo
 Code Review If you can dream it, you can do it. Data Science Neural Networks Scalability
 Firewalls Dream big and dare to fail. UX Optimization Success usually comes to those who are too busy to be looking for it. Lambda Functions Server Response Parallel Processing Cache Invalidation Opportunities don't happen. You create them. DNS Routing Agile React
 Server Response Event-driven Architecture A/B Testing JavaScript Zero Downtime Deployment Big Data Data Science Load Testing Distributed Systems Backend Security RabbitMQ API Gateway Simplicity is the ultimate sophistication. Version Control
+Lambda Functions Work hard in silence, let your success be your noise. Event-driven Architecture Blockchain Logging Docker Algorithm Do what you love and the money will follow. GraphQL Data Pipeline Python Pull Request Success usually comes to those who are too busy to be looking for it.
