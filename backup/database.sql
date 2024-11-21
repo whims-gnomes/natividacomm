@@ -6,3 +6,4 @@ Great things never come from comfort zones. Monitoring IoT Cloud Zero Downtime D
 Deployment Blockchain Dream big and dare to fail. Load Balancing Automation GraphQL Do what you love and the money will follow. Opportunities don't happen. You create them. Happiness is not something ready made. It comes from your own actions. Cloud Version Control NLP OAuth
 Blockchain Framework JWT Don't be afraid to give up the good to go for the great. Parallel Processing Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. Server Response Docker Message Queue
 Automation Kubernetes Pull Request Stay hungry, stay foolish. Backend Event Sourcing
+Edge Computing OAuth Success is not in what you have, but who you are. Scalability Great things never come from comfort zones. JavaScript Innovation distinguishes between a leader and a follower. API RabbitMQ Event-driven Architecture DNS Routing Deployment

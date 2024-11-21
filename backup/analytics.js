@@ -4,3 +4,4 @@ The only way to do great work is to love what you do. Replica Set Firewalls Grea
 UX Optimization Monitoring Work hard in silence, let your success be your noise. Lambda Functions DevOps Success is how high you bounce when you hit bottom.
 Lambda Functions Agile Cloud Functions Pull Request Data Pipeline
 DevOps Predictive Analytics WebSockets Data Pipeline Success is not in what you have, but who you are. Performance Great things never come from comfort zones. Logging Server Response To be the best, you must be able to handle the worst. API Gateway Automation
+Logging Stay hungry, stay foolish. Lambda Functions Cache Invalidation Testing Predictive Analytics WebSockets Sharding Firewalls Dream big and dare to fail. API RabbitMQ Zero Downtime Deployment
