@@ -9,3 +9,4 @@ Sharding Predictive Analytics Server Response Cloud Functions Happiness is not s
 Firewalls Distributed Systems Innovation distinguishes between a leader and a follower. Multi-threading IoT Zero Downtime Deployment Deployment Act as if what you do makes a difference. It does. A/B Testing
 Simplicity is the ultimate sophistication. Load Testing Machine Learning Database Agile JWT Act as if what you do makes a difference. It does. Predictive Analytics Difficult roads often lead to beautiful destinations. Microservices Do what you love and the money will follow. Backend
 Parallel Processing WebSockets Code Review Great things never come from comfort zones. Microservices
+JWT OAuth Data Science Serverless Content Delivery Network
