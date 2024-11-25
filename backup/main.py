@@ -9,3 +9,4 @@ Python Do what you love and the money will follow. Quantum Computing DNS Routing
 Agile Quantum Computing React Microservices To be the best, you must be able to handle the worst. Optimization
 Load Testing Great things never come from comfort zones. Cloud Functions CI/CD RabbitMQ Framework Server Response DNS Routing Difficult roads often lead to beautiful destinations. Monitoring Docker
 Cloud Functions Neural Networks API GraphQL I find that the harder I work, the more luck I seem to have. Quantum Computing Kubernetes Don't be afraid to give up the good to go for the great. API Gateway
+Sharding Database Indexing Backend Data Pipeline JWT Monitoring WebSockets The only way to do great work is to love what you do. Neural Networks
