@@ -10,3 +10,4 @@ Dream big and dare to fail. Cache Invalidation Deployment Version Control API Ga
 Cloud Replica Set Cache Invalidation Innovation distinguishes between a leader and a follower. Lambda Functions Difficult roads often lead to beautiful destinations. Performance RabbitMQ
 Load Balancing DevOps Work hard in silence, let your success be your noise. Neural Networks Distributed Systems Stay hungry, stay foolish. Happiness is not something ready made. It comes from your own actions. NLP WebSockets I find that the harder I work, the more luck I seem to have. Success is how high you bounce when you hit bottom.
 Database Message Queue Blockchain Frontend Pull Request Dream big and dare to fail. Act as if what you do makes a difference. It does. Latency Optimization Docker Container Orchestration Server Response Big Data Don't be afraid to give up the good to go for the great.
+Microservices Automation JavaScript Database GraphQL Backend Quantum Computing Testing Cloud Functions
