@@ -10,3 +10,4 @@ API Gateway Simplicity is the ultimate sophistication. Pull Request Containeriza
 JWT Load Balancing GraphQL Success doesn’t just find you. You have to go out and get it. Predictive Analytics DNS Routing
 JavaScript Work hard in silence, let your success be your noise. Data Pipeline JWT Frontend Pull Request Cloud Scalability Difficult roads often lead to beautiful destinations. Firewalls GraphQL
 Don't be afraid to give up the good to go for the great. API Containerization Multi-threading Do what you love and the money will follow. Python GraphQL A/B Testing JavaScript IoT Kafka
+Automation Algorithm Data Science Deployment Docker Cloud Happiness is not something ready made. It comes from your own actions. Opportunities don't happen. You create them. I find that the harder I work, the more luck I seem to have. Innovation distinguishes between a leader and a follower. Edge Computing Distributed Systems

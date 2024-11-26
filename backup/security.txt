@@ -7,3 +7,4 @@ Version Control Kafka Big Data Simplicity is the ultimate sophistication. Lambda
 Great things never come from comfort zones. Simplicity is the ultimate sophistication. Cloud Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. WebSockets Testing RabbitMQ Cache Invalidation Optimization If you can dream it, you can do it. Do what you love and the money will follow. Lambda Functions Blockchain
 Predictive Analytics Stay hungry, stay foolish. Edge Computing Backend Scalability Agile
 Cloud Functions Frontend Deployment Performance IoT Simplicity is the ultimate sophistication. Monitoring Pull Request Event-driven Architecture Cloud Version Control Agile Edge Computing Message Queue
+I find that the harder I work, the more luck I seem to have. JavaScript Microservices Kafka CI/CD Quantum Computing Frontend
