@@ -4,3 +4,4 @@ CI/CD Simplicity is the ultimate sophistication. Container Orchestration Firewal
 Happiness is not something ready made. It comes from your own actions. Event-driven Architecture Cloud Functions Optimization Predictive Analytics Microservices Neural Networks Virtual Machines IoT
 Kafka Quantum Computing Containerization Latency Optimization Machine Learning Parallel Processing Agile Happiness is not something ready made. It comes from your own actions. Serverless Performance Deployment Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does. Database Indexing Firewalls
 Load Balancing OAuth Container Orchestration Backend Scalability Python DevOps Replica Set
+Event Sourcing Cloud Functions Scalability Neural Networks Artificial Intelligence Predictive Analytics
