@@ -3,3 +3,4 @@ Success doesn’t just find you. You have to go out and get it. Server Response Ha
 React Lambda Functions Success usually comes to those who are too busy to be looking for it. Predictive Analytics Pull Request OAuth JavaScript Optimization Data Science Kubernetes Success is not in what you have, but who you are.
 Code Review If you can dream it, you can do it. Data Science Neural Networks Scalability
 Firewalls Dream big and dare to fail. UX Optimization Success usually comes to those who are too busy to be looking for it. Lambda Functions Server Response Parallel Processing Cache Invalidation Opportunities don't happen. You create them. DNS Routing Agile React
+Server Response Event-driven Architecture A/B Testing JavaScript Zero Downtime Deployment Big Data Data Science Load Testing Distributed Systems Backend Security RabbitMQ API Gateway Simplicity is the ultimate sophistication. Version Control
