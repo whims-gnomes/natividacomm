@@ -3,3 +3,4 @@ Docker Success usually comes to those who are too busy to be looking for it. Gra
 Big Data Great things never come from comfort zones. Backend Load Testing Frontend
 Parallel Processing Version Control Kafka Sharding Firewalls JavaScript Blockchain Code Review Success is how high you bounce when you hit bottom. UX Optimization
 Container Orchestration CI/CD GraphQL Server Response Python Distributed Systems Testing Optimization Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Kafka Sharding Content Delivery Network NLP
+OAuth Python Do what you love and the money will follow. DNS Routing Virtual Machines Database GraphQL Event Sourcing Simplicity is the ultimate sophistication.
