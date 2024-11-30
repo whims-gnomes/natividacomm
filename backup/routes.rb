@@ -7,3 +7,4 @@ Edge Computing Framework GraphQL Load Balancing Server Response JWT Agile Latenc
 Kafka Replica Set Great things never come from comfort zones. Parallel Processing Agile API Message Queue Machine Learning Virtual Machines
 Sharding Predictive Analytics Server Response Cloud Functions Happiness is not something ready made. It comes from your own actions. IoT
 Firewalls Distributed Systems Innovation distinguishes between a leader and a follower. Multi-threading IoT Zero Downtime Deployment Deployment Act as if what you do makes a difference. It does. A/B Testing
+Simplicity is the ultimate sophistication. Load Testing Machine Learning Database Agile JWT Act as if what you do makes a difference. It does. Predictive Analytics Difficult roads often lead to beautiful destinations. Microservices Do what you love and the money will follow. Backend
