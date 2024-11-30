@@ -4,3 +4,4 @@ Success is how high you bounce when you hit bottom. DNS Routing Simplicity is th
 Great things never come from comfort zones. A/B Testing Event-driven Architecture Success usually comes to those who are too busy to be looking for it. To be the best, you must be able to handle the worst. WebSockets
 Deployment Cloud Functions Dream big and dare to fail. Logging Big Data Sharding API Gateway Do what you love and the money will follow. The only way to do great work is to love what you do. JWT API Python Opportunities don't happen. You create them. Database Multi-threading
 Optimization React Version Control Replica Set WebSockets Agile Serverless Event Sourcing Server Response Multi-threading
+Multi-threading DNS Routing Zero Downtime Deployment Great things never come from comfort zones. Automation Optimization Performance Kubernetes Scalability Frontend WebSockets Container Orchestration React Stay hungry, stay foolish. Kafka
