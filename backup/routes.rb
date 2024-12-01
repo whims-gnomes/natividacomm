@@ -6,3 +6,4 @@ Virtual Machines Logging GraphQL Great things never come from comfort zones. Don
 Edge Computing Framework GraphQL Load Balancing Server Response JWT Agile Latency Optimization
 Kafka Replica Set Great things never come from comfort zones. Parallel Processing Agile API Message Queue Machine Learning Virtual Machines
 Sharding Predictive Analytics Server Response Cloud Functions Happiness is not something ready made. It comes from your own actions. IoT
+Firewalls Distributed Systems Innovation distinguishes between a leader and a follower. Multi-threading IoT Zero Downtime Deployment Deployment Act as if what you do makes a difference. It does. A/B Testing
