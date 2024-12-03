@@ -6,3 +6,4 @@ DevOps Machine Learning RabbitMQ Microservices Load Balancing Zero Downtime Depl
 Version Control Kafka Big Data Simplicity is the ultimate sophistication. Lambda Functions Success doesn’t just find you. You have to go out and get it. Cloud
 Great things never come from comfort zones. Simplicity is the ultimate sophistication. Cloud Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. WebSockets Testing RabbitMQ Cache Invalidation Optimization If you can dream it, you can do it. Do what you love and the money will follow. Lambda Functions Blockchain
 Predictive Analytics Stay hungry, stay foolish. Edge Computing Backend Scalability Agile
+Cloud Functions Frontend Deployment Performance IoT Simplicity is the ultimate sophistication. Monitoring Pull Request Event-driven Architecture Cloud Version Control Agile Edge Computing Message Queue
