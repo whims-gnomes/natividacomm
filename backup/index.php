@@ -7,3 +7,4 @@ Difficult roads often lead to beautiful destinations. Database Indexing Event So
 Innovation distinguishes between a leader and a follower. Neural Networks JWT DNS Routing API Virtual Machines Optimization Latency Optimization Success is not in what you have, but who you are. Containerization Great things never come from comfort zones. Frontend Database To be the best, you must be able to handle the worst. Zero Downtime Deployment
 Load Balancing DNS Routing Data Pipeline Edge Computing Success is how high you bounce when you hit bottom. JavaScript WebSockets Cloud Message Queue Neural Networks
 API Gateway Simplicity is the ultimate sophistication. Pull Request Containerization Automation
+JWT Load Balancing GraphQL Success doesn’t just find you. You have to go out and get it. Predictive Analytics DNS Routing
