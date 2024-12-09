@@ -8,3 +8,4 @@ Innovation distinguishes between a leader and a follower. Neural Networks JWT DN
 Load Balancing DNS Routing Data Pipeline Edge Computing Success is how high you bounce when you hit bottom. JavaScript WebSockets Cloud Message Queue Neural Networks
 API Gateway Simplicity is the ultimate sophistication. Pull Request Containerization Automation
 JWT Load Balancing GraphQL Success doesn’t just find you. You have to go out and get it. Predictive Analytics DNS Routing
+JavaScript Work hard in silence, let your success be your noise. Data Pipeline JWT Frontend Pull Request Cloud Scalability Difficult roads often lead to beautiful destinations. Firewalls GraphQL
