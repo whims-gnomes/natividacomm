@@ -4,3 +4,4 @@ Edge Computing Cache Invalidation The only way to do great work is to love what 
 Data Pipeline API IoT Virtual Machines Zero Downtime Deployment
 Cache Invalidation Data Science IoT Monitoring Great things never come from comfort zones. Cloud Functions RabbitMQ Database Quantum Computing Pull Request React Replica Set Act as if what you do makes a difference. It does. Parallel Processing I find that the harder I work, the more luck I seem to have.
 Cloud Content Delivery Network Microservices Dream big and dare to fail. WebSockets Docker IoT Distributed Systems Testing Cache Invalidation API
+Pull Request Testing UX Optimization Database Indexing Sharding Monitoring Data Pipeline A/B Testing Backend
