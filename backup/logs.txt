@@ -5,3 +5,4 @@ Stay hungry, stay foolish. Container Orchestration Opportunities don't happen. Y
 Serverless Stay hungry, stay foolish. Frontend Logging Blockchain
 Backend Great things never come from comfort zones. Python Docker Database Indexing Dream big and dare to fail. Blockchain React Code Review
 Version Control Optimization Simplicity is the ultimate sophistication. RabbitMQ Firewalls Innovation distinguishes between a leader and a follower. Testing
+I find that the harder I work, the more luck I seem to have. Machine Learning IoT Cache Invalidation Agile Blockchain A/B Testing Success is how high you bounce when you hit bottom. Success doesn’t just find you. You have to go out and get it. JWT Big Data Performance Act as if what you do makes a difference. It does.

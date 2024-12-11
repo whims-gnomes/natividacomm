@@ -6,3 +6,4 @@ WebSockets A/B Testing DNS Routing DevOps Work hard in silence, let your success
 Load Balancing Docker Scalability GraphQL Event-driven Architecture Serverless Message Queue Kubernetes Data Science Code Review Deployment Innovation distinguishes between a leader and a follower. JavaScript
 DevOps A/B Testing Logging RabbitMQ Database Indexing Success usually comes to those who are too busy to be looking for it. Testing Parallel Processing Big Data CI/CD Multi-threading Load Testing If you can dream it, you can do it.
 Python Do what you love and the money will follow. Quantum Computing DNS Routing To be the best, you must be able to handle the worst. Stay hungry, stay foolish.
+Agile Quantum Computing React Microservices To be the best, you must be able to handle the worst. Optimization
