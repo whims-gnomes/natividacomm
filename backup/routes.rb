@@ -4,3 +4,4 @@ Automation Docker Version Control Kubernetes Microservices Success is how high y
 Load Balancing Success usually comes to those who are too busy to be looking for it. OAuth Testing Blockchain Deployment I find that the harder I work, the more luck I seem to have. Monitoring
 Virtual Machines Logging GraphQL Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. Monitoring Success is not in what you have, but who you are. Event-driven Architecture Kafka Container Orchestration Deployment Latency Optimization A/B Testing Work hard in silence, let your success be your noise. Opportunities don't happen. You create them.
 Edge Computing Framework GraphQL Load Balancing Server Response JWT Agile Latency Optimization
+Kafka Replica Set Great things never come from comfort zones. Parallel Processing Agile API Message Queue Machine Learning Virtual Machines
