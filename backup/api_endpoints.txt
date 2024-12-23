@@ -2,3 +2,4 @@ GraphQL Don't be afraid to give up the good to go for the great. Optimization Ed
 Event Sourcing Zero Downtime Deployment JWT RabbitMQ Innovation distinguishes between a leader and a follower. Testing Blockchain OAuth
 Edge Computing Cache Invalidation The only way to do great work is to love what you do. Version Control API Gateway Stay hungry, stay foolish.
 Data Pipeline API IoT Virtual Machines Zero Downtime Deployment
+Cache Invalidation Data Science IoT Monitoring Great things never come from comfort zones. Cloud Functions RabbitMQ Database Quantum Computing Pull Request React Replica Set Act as if what you do makes a difference. It does. Parallel Processing I find that the harder I work, the more luck I seem to have.
