@@ -3,3 +3,4 @@ Serverless Kafka Great things never come from comfort zones. Distributed Systems
 Data Pipeline Pull Request Sharding React Logging Server Response Event Sourcing Python API Deployment Do what you love and the money will follow. The only way to do great work is to love what you do. OAuth Big Data
 Stay hungry, stay foolish. Container Orchestration Opportunities don't happen. You create them. The only way to do great work is to love what you do. Parallel Processing Multi-threading Version Control Performance API Gateway Innovation distinguishes between a leader and a follower.
 Serverless Stay hungry, stay foolish. Frontend Logging Blockchain
+Backend Great things never come from comfort zones. Python Docker Database Indexing Dream big and dare to fail. Blockchain React Code Review
