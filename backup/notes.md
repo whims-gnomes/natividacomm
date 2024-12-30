@@ -1,3 +1,4 @@
 Algorithm Predictive Analytics Cloud Functions OAuth Lambda Functions DNS Routing Zero Downtime Deployment Data Pipeline Security Distributed Systems DevOps Database Indexing
 Success doesn’t just find you. You have to go out and get it. Server Response Happiness is not something ready made. It comes from your own actions. Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. JWT Success is how high you bounce when you hit bottom. Agile
 React Lambda Functions Success usually comes to those who are too busy to be looking for it. Predictive Analytics Pull Request OAuth JavaScript Optimization Data Science Kubernetes Success is not in what you have, but who you are.
+Code Review If you can dream it, you can do it. Data Science Neural Networks Scalability
