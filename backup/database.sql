@@ -3,3 +3,4 @@ Replica Set Distributed Systems Virtual Machines Dream big and dare to fail. Pyt
 Security Scalability NLP Data Science Logging
 I find that the harder I work, the more luck I seem to have. Predictive Analytics Message Queue Docker React Automation Optimization WebSockets
 Great things never come from comfort zones. Monitoring IoT Cloud Zero Downtime Deployment Load Balancing Edge Computing Serverless Scalability Performance UX Optimization Firewalls
+Deployment Blockchain Dream big and dare to fail. Load Balancing Automation GraphQL Do what you love and the money will follow. Opportunities don't happen. You create them. Happiness is not something ready made. It comes from your own actions. Cloud Version Control NLP OAuth
