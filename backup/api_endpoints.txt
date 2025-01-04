@@ -1,3 +1,4 @@
 GraphQL Don't be afraid to give up the good to go for the great. Optimization Edge Computing To be the best, you must be able to handle the worst. JWT Multi-threading Replica Set RabbitMQ Blockchain Performance Lambda Functions Data Pipeline Algorithm Kafka
 Event Sourcing Zero Downtime Deployment JWT RabbitMQ Innovation distinguishes between a leader and a follower. Testing Blockchain OAuth
 Edge Computing Cache Invalidation The only way to do great work is to love what you do. Version Control API Gateway Stay hungry, stay foolish.
+Data Pipeline API IoT Virtual Machines Zero Downtime Deployment
