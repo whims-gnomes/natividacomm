@@ -1,1 +1,2 @@
 Data Science To be the best, you must be able to handle the worst. Version Control Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Data Pipeline
+Backend Monitoring Event Sourcing Great things never come from comfort zones. Message Queue Docker Testing Pull Request GraphQL Database Do what you love and the money will follow. Multi-threading Server Response Serverless
