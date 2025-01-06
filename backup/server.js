@@ -1,1 +1,2 @@
 UX Optimization Virtual Machines Kubernetes Cloud Functions Quantum Computing Zero Downtime Deployment Python Machine Learning Blockchain Event Sourcing Event-driven Architecture Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have.
+Framework Automation Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. Python I find that the harder I work, the more luck I seem to have. Microservices
