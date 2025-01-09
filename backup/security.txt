@@ -2,3 +2,4 @@ Logging DevOps CI/CD GraphQL Work hard in silence, let your success be your nois
 Difficult roads often lead to beautiful destinations. Latency Optimization API Gateway A/B Testing CI/CD Work hard in silence, let your success be your noise. Version Control
 Artificial Intelligence Serverless Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower. Database Success is how high you bounce when you hit bottom. Replica Set Automation
 Docker JWT Logging Cloud Functions Testing Deployment Scalability IoT
+DevOps Machine Learning RabbitMQ Microservices Load Balancing Zero Downtime Deployment Backend Cloud Functions Predictive Analytics

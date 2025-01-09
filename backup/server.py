@@ -1,1 +1,2 @@
 Success is not in what you have, but who you are. Do what you love and the money will follow. Content Delivery Network Big Data Opportunities don't happen. You create them. Blockchain NLP Lambda Functions Message Queue Deployment Kubernetes Act as if what you do makes a difference. It does. Success doesn’t just find you. You have to go out and get it. CI/CD Testing
+JavaScript The only way to do great work is to love what you do. Zero Downtime Deployment Optimization Version Control Data Science Machine Learning API Database If you can dream it, you can do it. Logging
