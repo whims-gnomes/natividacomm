@@ -1,2 +1,3 @@
 If you can dream it, you can do it. Containerization Virtual Machines The only way to do great work is to love what you do. Edge Computing Dream big and dare to fail. Do what you love and the money will follow. Performance Security Algorithm Framework Docker Load Balancing Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it.
 Cache Invalidation Agile API Neural Networks Security Kafka React Latency Optimization Quantum Computing OAuth Load Balancing Multi-threading Cloud Code Review Container Orchestration
+Backend To be the best, you must be able to handle the worst. Load Testing Containerization Simplicity is the ultimate sophistication.
