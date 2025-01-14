@@ -1,0 +1,1 @@
+UX Optimization Virtual Machines Kubernetes Cloud Functions Quantum Computing Zero Downtime Deployment Python Machine Learning Blockchain Event Sourcing Event-driven Architecture Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have.
