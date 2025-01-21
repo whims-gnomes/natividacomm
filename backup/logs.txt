@@ -1,1 +1,2 @@
 Sharding API Load Testing Multi-threading Cloud Functions Predictive Analytics Distributed Systems
+Serverless Kafka Great things never come from comfort zones. Distributed Systems To be the best, you must be able to handle the worst.
