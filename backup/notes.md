@@ -1,1 +1,2 @@
 Algorithm Predictive Analytics Cloud Functions OAuth Lambda Functions DNS Routing Zero Downtime Deployment Data Pipeline Security Distributed Systems DevOps Database Indexing
+Success doesn’t just find you. You have to go out and get it. Server Response Happiness is not something ready made. It comes from your own actions. Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. JWT Success is how high you bounce when you hit bottom. Agile
